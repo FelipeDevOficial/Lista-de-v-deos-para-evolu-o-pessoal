@@ -1,6 +1,6 @@
 # Vídeos para Evolução Pessoal
 
-🌐Este repositório contém uma coleção curada de vídeos para promover o crescimento e a evolução pessoal. A ideia é fornecer recursos valiosos para o desenvolvimento de habilidades, autoconhecimento e melhoria contínua em diversas áreas da vida.
+🌐Este repositório contém uma lista de vídeos em endereços web para promover o crescimento e a evolução pessoal. A ideia é fornecer recursos valiosos para o desenvolvimento de habilidades, autoconhecimento e melhoria contínua em diversas áreas da vida.
 
 ## Índice
 
