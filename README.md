@@ -12,7 +12,7 @@
 
 Este repositório tem como objetivo reunir conteúdos audiovisuais que possam inspirar e capacitar indivíduos em sua jornada de autodescoberta e desenvolvimento pessoal. Cada vídeo foi selecionado com base em sua relevância para o crescimento em áreas como:
 
-- Mindset e Motivação
+- Motivação
 - Produtividade
 - Saúde mental e emocional
 - Comunicação e relacionamentos
